@@ -39,7 +39,7 @@ I'm **Sushanth B S**, a Computer Science Engineering student with a deep interes
 
 
 
-#🤝 Let’s Build Together  
+# 🤝 Let’s Build Together  
 Open to collaborations, creative tech ideas, or just chatting about cool projects! If you're working on something exciting or want to connect over code, feel free to reach out!
 
 
