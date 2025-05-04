@@ -2,7 +2,8 @@
 
 
 
-![Cover Image](https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGhlbGxvJTIwd29yZCUyMGNvdmVyfGVufDB8fDB8fHww)
+![Cover Image](![GITHUBCOVERPAGE](https://github.com/user-attachments/assets/4aa06908-b286-45dd-9464-bfe21c68564c)
+)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushan766&label=Profile%20views&color=0e75b6&style=flat" alt="sushan766" /> </p>
 
 
