@@ -8,7 +8,7 @@
 
 
 
-# 💫 About Me?
+# 💫 About Me
 
 I'm **Sushanth B S**, a Computer Science Engineering student with a deep interest in building technology that matters. I'm passionate about open-source, collaborative development, and always on the lookout for the next innovation to dive into.
 
@@ -34,5 +34,13 @@ I'm **Sushanth B S**, a Computer Science Engineering student with a deep interes
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SushAN766&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+#🤝 Let’s Build Together  
+Open to collaborations, creative tech ideas, or just chatting about cool projects! If you're working on something exciting or want to connect over code, feel free to reach out!
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
