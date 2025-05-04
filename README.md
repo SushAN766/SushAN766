@@ -2,8 +2,8 @@
 
 
 
-![Cover Image](![GITHUBCOVERPAGE](https://github.com/user-attachments/assets/4aa06908-b286-45dd-9464-bfe21c68564c)
-)
+![Cover Image]()
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushan766&label=Profile%20views&color=0e75b6&style=flat" alt="sushan766" /> </p>
 
 
