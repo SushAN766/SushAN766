@@ -2,7 +2,7 @@
 
 
 
-![Cover Image]()
+![Cover Image](https://github.com/SushAN766/SushAN766/blob/main/GITHUBCOVERPAGE.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushan766&label=Profile%20views&color=0e75b6&style=flat" alt="sushan766" /> </p>
 
