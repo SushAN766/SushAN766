@@ -7,14 +7,14 @@
 
 
 
-# 💫 Who Am I?
+# 💫 About Me?
 
 I'm **Sushanth B S**, a Computer Science Engineering student with a deep interest in building technology that matters. I'm passionate about open-source, collaborative development, and always on the lookout for the next innovation to dive into.
 
 - 🌐 My current focus is on developing smart, scalable **web applications** and exploring the world of **AI**
 - 🌱 I'm actively learning **GoLang** and strengthening my expertise in **full-stack development**
 - 💡 I thrive on solving complex problems and experimenting with new tools, frameworks, and ideas
-- 👨‍💻 Take a look at my work: [sushan766.vercel.app](https://portfolio-site-gray-chi.vercel.app/)
+- 👨‍💻 Take a look at my work: [sushanth.vercel.app](https://portfolio-site-gray-chi.vercel.app/)
 - 💬 Feel free to reach out if you want to talk **React**, **Node.js**, or **Java**
 - 📫 Drop me an email: **sushanthbs766@gmail.com**
 
