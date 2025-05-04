@@ -1,16 +1,22 @@
 
-<h1 align="center">Hi 👋, I'm Sushanth</h1>
-<h3 align="center">A passionate frontend developer & backend developer</h3>
 
+
+
+![Cover Image](https://your-cover-image-url.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushan766&label=Profile%20views&color=0e75b6&style=flat" alt="sushan766" /> </p>
 
-- 🌱 I’m currently learning **ML,GO,MERN**
+# 💫 About Me
 
-- 💬 Ask me about **MERN,SQL,JAVA,ML**
+I'm **Sushanth B S**, a Computer Science Engineering student with a deep interest in building technology that matters. I'm passionate about open-source, collaborative development, and always on the lookout for the next innovation to dive into.
 
-- 📫 How to reach me **sushanthbs766@gmail.com**
+- 🌐 My current focus is on developing smart, scalable **web applications** and exploring the world of **AI**
+- 🌱 I'm actively learning **GoLang** and strengthening my expertise in **full-stack development**
+- 💡 I thrive on solving complex problems and experimenting with new tools, frameworks, and ideas
+- 👨‍💻 Take a look at my work: [sushan766.vercel.app](https://sushan766.vercel.app/)
+- 💬 Feel free to reach out if you want to talk **React**, **Node.js**, or **Java**
+- 📫 Drop me an email: **sushanthbs766@gmail.com**
 
-- ⚡ Fun fact **Well, I don't sleep, but I do get "rate limited"—kind of like a forced nap.**
+
 
 
 ## 🌐 Socials:
