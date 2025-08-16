@@ -79,6 +79,7 @@ I'm a passionate Computer Science Engineering student at SJEC Mangaluru (2022–
 
 
 
+
 <!--# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SushAN766&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SushAN766&theme=dark&hide_border=false)<br/>
@@ -95,7 +96,7 @@ I'm a passionate Computer Science Engineering student at SJEC Mangaluru (2022–
 Open to collaborations, creative tech ideas, or just chatting about cool projects! If you're working on something exciting or want to connect over code, feel free to reach out! -->
 
 
- ## **Star my repositories if you find them helpful!**
+ ### **Star my repositories if you find them helpful!**
 
 
 
