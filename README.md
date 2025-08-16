@@ -26,7 +26,7 @@ I'm a passionate Computer Science Engineering student at SJEC Mangaluru (2022–
 -  Take a look at my work: [sshnth.tech](https://www.sshnth.tech) 
 -  How to reach me: Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/sshnth)
 
----
+
   
 # Tech Stack:
 ### Languages
@@ -67,7 +67,7 @@ I'm a passionate Computer Science Engineering student at SJEC Mangaluru (2022–
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 [![Convex](https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=convex&logoColor=white)](https://convex.dev)
 
----
+
 ##  Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://www.sshnth.tech)  
@@ -77,7 +77,7 @@ I'm a passionate Computer Science Engineering student at SJEC Mangaluru (2022–
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushanthbs766@gmail.com)
 
 
----
+
 
 <!--# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SushAN766&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -95,7 +95,7 @@ I'm a passionate Computer Science Engineering student at SJEC Mangaluru (2022–
 Open to collaborations, creative tech ideas, or just chatting about cool projects! If you're working on something exciting or want to connect over code, feel free to reach out! -->
 
 
- **Star my repositories if you find them helpful!**
+ ## **Star my repositories if you find them helpful!**
 
 
 
