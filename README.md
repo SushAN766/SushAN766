@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushan766&label=Profile%20views&color=0e75b6&style=flat" alt="sushan766" /> </p>
 
 
-<!--
+
 # About Me
 
 I'm a passionate Computer Science Engineering student at SJEC Mangaluru (2022–2026), specializing in Full-Stack Development and AI/ML. I'm dedicated to building innovative solutions and empowering tech communities.
@@ -18,14 +18,15 @@ I'm a passionate Computer Science Engineering student at SJEC Mangaluru (2022–
 -  Take a look at my work: [sushanth.com](https://portfolio-site-gray-chi.vercel.app/)
 -  Feel free to reach out if you want to talk **React**, **Node.js**, or **Java**
 -  Drop me an email: **sushanthbs766@gmail.com** */} -->
-<!--
+
 -  Currently working on **AI-powered applications**,**Graph Neural Networks (GNNs)** and **GNN-based multimodal analysis**  
 -  Exploring **Generative AI, Cloud Computing, and Advanced ML techniques**  
 -  Looking to collaborate on **open source projects** and **innovative startups**  
 -  Ask me about **Full-Stack Development, AI/ML, or Cloud Computing**
 -  Take a look at my work: [sshnth.tech](https://www.sshnth.tech) 
 -  How to reach me: Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/sshnth)
--->
+
+<!--
 # About Me  
 
 I’m a **Computer Science Engineering student at SJEC Mangaluru (2022–2026)**, passionate about **Full-Stack Development** and **AI/ML**. I love building **innovative applications** and contributing to **tech communities** that drive real-world impact.  
@@ -45,7 +46,7 @@ I’m a **Computer Science Engineering student at SJEC Mangaluru (2022–2026)**
  **My Work:** [sshnth.tech](https://www.sshnth.tech/)  
  **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/sshnth/)  
 
-  
+-->
 # Tech Stack:
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -94,7 +95,7 @@ I’m a **Computer Science Engineering student at SJEC Mangaluru (2022–2026)**
 
 
 
-<!--# GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SushAN766&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SushAN766&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SushAN766&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -106,8 +107,8 @@ I’m a **Computer Science Engineering student at SJEC Mangaluru (2022–2026)**
 
 
 
-<!--# Let’s Build Together  
-Open to collaborations, creative tech ideas, or just chatting about cool projects! If you're working on something exciting or want to connect over code, feel free to reach out! -->
+# Let’s Build Together  
+Open to collaborations, creative tech ideas, or just chatting about cool projects! If you're working on something exciting or want to connect over code, feel free to reach out! 
 
 
  ### **Star my repositories if you find them helpful!**
