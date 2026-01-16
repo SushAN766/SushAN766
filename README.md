@@ -19,10 +19,10 @@ I'm a passionate Computer Science Engineering student at SJEC Mangaluru (2022–
 -  Feel free to reach out if you want to talk **React**, **Node.js**, or **Java**
 -  Drop me an email: **sushanthbs766@gmail.com** */} -->
 
--  Currently working on **AI-powered applications**,**Graph Neural Networks (GNNs)** and **GNN-based multimodal analysis**  
--  Exploring **Generative AI, Cloud Computing, and Advanced ML techniques**  
--  Looking to collaborate on **open source projects** and **innovative startups**  
--  Ask me about **Full-Stack Development, AI/ML, or Cloud Computing**
+-  Currently working on **AI-powered applications**. 
+-  Looking to collaborate on **open source projects** and **innovative startups**
+-  I thrive on solving complex problems and experimenting with new tools, frameworks, and ideas
+-  Ask me about **Full-Stack Development**
 -  Take a look at my work: [sshnth.tech](https://www.sshnth.tech) 
 -  How to reach me: Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/sshnth)
 
@@ -49,11 +49,12 @@ I’m a **Computer Science Engineering student at SJEC Mangaluru (2022–2026)**
 -->
 # Tech Stack:
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
+
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,13 +66,15 @@ I’m a **Computer Science Engineering student at SJEC Mangaluru (2022–2026)**
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
 
 ### Cloud & DevOps
 <!--![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)-->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -85,11 +88,14 @@ I’m a **Computer Science Engineering student at SJEC Mangaluru (2022–2026)**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 [![Convex](https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=convex&logoColor=white)](https://convex.dev)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 
 ##  Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://www.sshnth.tech)[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sshnth/)[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/https://x.com/ssnthbs)[![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sushanth_bs_/)[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushanthbs766@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://www.sshnth.tech)[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sshnth/)[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/s_sushanth58361)[![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sushanthbs_/)[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sshnthbs@gmail.com)
 
 
 
